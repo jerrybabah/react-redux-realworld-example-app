@@ -1,1 +1,1 @@
-## React Initial Settings for react + webpack + babel + typescript + eslint
+## Realworld Example App (React + Redux)
