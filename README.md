@@ -1,0 +1,1 @@
+## React Initial Settings for react + webpack + babel + typescript + eslint
